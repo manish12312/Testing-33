@@ -8,6 +8,7 @@ public class A
 		A a1=new A();
 		a1.m1();
 		
+		a1.m2();
 		
 		// TODO Auto-generated method stub
 
@@ -17,6 +18,14 @@ public class A
 	{
 		
 		System.out.println(" M1 of A your program ");
+		// TODO Auto-generated method stub
+		
+	}
+	
+	public void m2() 
+	{
+		
+		System.out.println(" M2 of A ypour Program ");
 		// TODO Auto-generated method stub
 		
 	}
