@@ -10,6 +10,8 @@ public class A
 		
 		a1.m2();
 		
+		a1.sum();
+		
 		// TODO Auto-generated method stub
 
 	}
@@ -26,6 +28,15 @@ public class A
 	{
 		
 		System.out.println(" M2 of A ypour Program ");
+		// TODO Auto-generated method stub
+		
+	}
+	
+	 
+	public void sum() 
+	{
+		
+		System.out.println(" Sum of A your program ");
 		// TODO Auto-generated method stub
 		
 	}
